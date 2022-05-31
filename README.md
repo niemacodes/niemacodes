@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**niemacodes/niemacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### 
 👋🏽 Hi, I'm Nima.
 
 🌇 I’m a New York'er at heart who was born in Khartoum, Sudan and has developed a passion for decentralization and renewable energy technology. I am currently based in Los Angeles, California. 
@@ -16,4 +12,8 @@
 💪🏽 Some of my skills include Android Development, Project Management, Product Design, UI/UX Interfaces, and Graphic Design. I am also fluent in the Arabic language. 
 
 👋🏽 Feel free to reach out to chat! I love meeting new people & collaborating as well. Looking forward to buidling. WAGMI !!!! 
+###
+
+<!--
+**niemacodes/niemacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
