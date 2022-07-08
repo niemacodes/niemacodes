@@ -22,6 +22,7 @@
 - Sharing my developer journey on  <a href="https://twitter.com/niemacodes">Twitter</a>
 - Learn more about me on  <a href="https://www.linkedin.com/in/niema/">Linkedin</a> 
 
+<!--
 ## 📈 Some of my stats:
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=niemacodes&theme=nightowl&show_icons=true&hide=contribs" />
@@ -29,7 +30,7 @@
 <p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=niemacodes.niemacodes" />
 </p>
-<!--
-**niemacodes/niemacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**niemacodes/niemacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
