@@ -19,7 +19,7 @@
 </p>
 
 ## 🌎 Find me online: 
-- Sharing my developer journey on  <a href="https://twitter.com/niemacodes">Twitter</a>
+- Sharing my developer journey on  <a href="https://twitter.com/myweb3journey">Twitter</a>
 - Learn more about me on  <a href="https://www.linkedin.com/in/niema/">Linkedin</a> 
 
 <!--
